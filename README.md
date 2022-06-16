@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Matvey Litvin
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React/Redux
+- 👀 I’m interested in JavaScript and React/Redux
 - 📫 How to reach me https://t.me/nodeuser
 
 <!---
