@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matvey Litvin
+- 👋 Hi, I’m Matthew Litvin
 - 👀 I’m interested in JavaScript and React/Redux
 - 📫 How to reach me https://t.me/fgetgov
 
